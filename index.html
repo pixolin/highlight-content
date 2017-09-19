@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>MarkJS</title>
+	<style>
+		* {margin: 0;padding: 0;}
+		body {background: #e0e0e0; text-align:center; font-family: sans-serif;}
+		p, input { line-height: 130%; margin: 0 0 1rem 0;}
+		mark{ background: #fff2a8; line-height: 140%; padding: 5px;}
+		#wrap {background: #fff; text-align: left; width:80%; margin:20px auto;padding: 20px;}
+	</style>
+</head>
+<body>
+
+	<div id="wrap">
+
+		<p><label for="highlight">Suche nach: </label><input type="text" name='highlight' class='search' id='search' placeholder='Suche'></p>
+		<p>
+		<span>Search options:</span>
+		<input type="checkbox" name="opt[]" value="separateWordSearch" checked> separate word search
+		<input type="checkbox" name="opt[]" value="diacritics" checked> diacritics
+		<input type="checkbox" name="opt[]" value="caseSensitive" checked> case sensitive
+		</span>
+		</p>
+		<p>Lorem ipsum dolor sit amet, loorem consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+
+		<p>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.</p>
+
+		<p>Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lörem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.</p>
+
+		<p>Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,</p>
+	</div>
+	<script src="mark.js/dist/mark.es6.js"></script>
+	<script>
+
+		const keywordInput = document.querySelector("input[name='highlight']");
+		const markInstance = new Mark(document.querySelector("#wrap"));
+		const optionInputs = document.querySelectorAll("input[name='opt[]']");
+
+		keywordInput.addEventListener("input", performMark);
+		for (i = 0; i < optionInputs.length; i++) {
+			optionInputs[i].addEventListener("change", performMark);
+		}
+
+		function performMark() {
+
+			// Read the keyword
+			const keyword = keywordInput.value;
+			// Determine selected options
+			const options = {};
+			[].forEach.call(optionInputs, function(opt) {
+				options[opt.value] = opt.checked;
+			});
+
+			// Remove previous marked elements and mark
+			// the new keyword inside the context
+			markInstance.unmark({
+				done: function(){
+					markInstance.mark(keyword, options);
+				}
+			});
+		};
+	</script>
+</body>
+</html>
