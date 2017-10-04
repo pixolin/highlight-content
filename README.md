@@ -1,2 +1,4 @@
-# highlight-content
-WordPress plugin adds widget to highlight content
+# Highlight Content
+
+Plugin is in development.
+** Don't use for production **

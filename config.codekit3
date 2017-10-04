@@ -9,83 +9,161 @@
 	],
 "creatorBuild": "25900",
 "files": {
-	"\/index.html": {
+	"\/.editorconfig": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/index.html",
+		"oAP": "\/.editorconfig",
 		"oF": 0
 		},
-	"\/mark.js\/.bowerrc": {
+	"\/admin\/class-highlightcontent-admin.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/mark.js\/.bowerrc",
+		"oAP": "\/admin\/class-highlightcontent-admin.php",
 		"oF": 0
 		},
-	"\/mark.js\/.editorconfig": {
+	"\/admin\/css\/highlightcontent-admin.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/admin\/css\/highlightcontent-admin-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/admin\/index.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/mark.js\/.editorconfig",
+		"oAP": "\/admin\/index.php",
 		"oF": 0
 		},
-	"\/mark.js\/.eslintrc": {
+	"\/admin\/js\/highlightcontent-admin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/admin\/js\/min\/highlightcontent-admin-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/admin\/partials\/highlightcontent-admin-display.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/mark.js\/.eslintrc",
+		"oAP": "\/admin\/partials\/highlightcontent-admin-display.php",
 		"oF": 0
 		},
-	"\/mark.js\/.gitattributes": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/.gitattributes",
-		"oF": 0
-		},
-	"\/mark.js\/.gitignore": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/.gitignore",
-		"oF": 0
-		},
-	"\/mark.js\/.jsbeautifyrc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/.jsbeautifyrc",
-		"oF": 0
-		},
-	"\/mark.js\/.travis.yml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/.travis.yml",
-		"oF": 0
-		},
-	"\/mark.js\/bower.json": {
+	"\/bower.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/mark.js\/bower-min.json",
+		"oAP": "\/bower-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/mark.js\/build\/templates\/jquery.mark.js": {
+	"\/bower_components\/mark.js\/.bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/mark.js\/.bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/mark.js\/bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/mark.js\/bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/mark.js\/dist\/jquery.mark.es6.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/build\/templates\/min\/jquery.mark-min.js",
+		"oA": 2,
+		"oAP": "\/bower_components\/mark.js\/dist\/jquery.mark.es6.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/mark.js\/build\/templates\/mark.js": {
+	"\/bower_components\/mark.js\/dist\/jquery.mark.es6.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/build\/templates\/min\/mark-min.js",
+		"oA": 2,
+		"oAP": "\/bower_components\/mark.js\/dist\/jquery.mark.es6.min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/mark.js\/CONTRIBUTING.md": {
+	"\/bower_components\/mark.js\/dist\/jquery.mark.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/mark.js\/dist\/jquery.mark.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/mark.js\/dist\/jquery.mark.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/mark.js\/dist\/jquery.mark.min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/mark.js\/dist\/mark.es6.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/mark.js\/dist\/mark.es6.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/mark.js\/dist\/mark.es6.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/mark.js\/dist\/mark.es6.min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/mark.js\/dist\/mark.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/mark.js\/dist\/mark.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/mark.js\/dist\/mark.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/mark.js\/dist\/mark.min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/mark.js\/LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/mark.js\/LICENSE",
+		"oF": 0
+		},
+	"\/bower_components\/mark.js\/README.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -93,8 +171,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/mark.js\/CONTRIBUTING.html",
+		"oA": 2,
+		"oAP": "\/bower_components\/mark.js\/README.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -103,97 +181,125 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/mark.js\/dist\/jquery.mark.es6.js": {
+	"\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/highlightcontent.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/highlightcontent.php",
+		"oF": 0
+		},
+	"\/highlightcontent.sublime-project": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/highlightcontent.sublime-project",
+		"oF": 0
+		},
+	"\/includes\/class-highlightcontent-activator.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/includes\/class-highlightcontent-activator.php",
+		"oF": 0
+		},
+	"\/includes\/class-highlightcontent-deactivator.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/includes\/class-highlightcontent-deactivator.php",
+		"oF": 0
+		},
+	"\/includes\/class-highlightcontent-i18n.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/includes\/class-highlightcontent-i18n.php",
+		"oF": 0
+		},
+	"\/includes\/class-highlightcontent-loader.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/includes\/class-highlightcontent-loader.php",
+		"oF": 0
+		},
+	"\/includes\/class-highlightcontent.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/includes\/class-highlightcontent.php",
+		"oF": 0
+		},
+	"\/includes\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/includes\/index.php",
+		"oF": 0
+		},
+	"\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/index.php",
+		"oF": 0
+		},
+	"\/languages\/highlightcontent.pot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/languages\/highlightcontent.pot",
+		"oF": 0
+		},
+	"\/LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/LICENSE",
+		"oF": 0
+		},
+	"\/LICENSE.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/LICENSE.txt",
+		"oF": 0
+		},
+	"\/public\/class-highlightcontent-public.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/class-highlightcontent-public.php",
+		"oF": 0
+		},
+	"\/public\/css\/highlightcontent-public.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/css\/highlightcontent-public-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/public\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/index.php",
+		"oF": 0
+		},
+	"\/public\/js\/highlightcontent-public.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/mark.js\/dist\/min\/jquery.mark.es6-min.js",
+		"oAP": "\/public\/js\/min\/highlightcontent-public-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/mark.js\/dist\/jquery.mark.es6.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/dist\/min\/jquery.mark.es6.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
+	"\/public\/partials\/highlightcontent-public-display.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/partials\/highlightcontent-public-display.php",
+		"oF": 0
 		},
-	"\/mark.js\/dist\/jquery.mark.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/dist\/min\/jquery.mark-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/dist\/jquery.mark.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/dist\/min\/jquery.mark.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/dist\/mark.es6.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/dist\/min\/mark.es6-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/dist\/mark.es6.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/dist\/min\/mark.es6.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/dist\/mark.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/dist\/min\/mark-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/dist\/mark.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/dist\/min\/mark.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/Gruntfile.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/min\/Gruntfile-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/ISSUE_TEMPLATE.md": {
+	"\/README.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -202,7 +308,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/mark.js\/ISSUE_TEMPLATE.html",
+		"oAP": "\/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -211,1775 +317,17 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/mark.js\/karma.conf-ci.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/min\/karma.conf-ci-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/karma.conf.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/min\/karma.conf-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/LICENSE": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/LICENSE",
-		"oF": 0
-		},
-	"\/mark.js\/package-lock.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/mark.js\/package-lock-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/mark.js\/package.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/mark.js\/package-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/mark.js\/README.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/mark.js\/README.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/mark.js\/src\/mark.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/src\/min\/mark-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/fixtures\/across-elements\/basic\/accuracy-exactly.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/across-elements\/basic\/accuracy-exactly.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/across-elements\/basic\/empty.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/across-elements\/basic\/empty.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/across-elements\/basic\/filter.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/across-elements\/basic\/filter.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/across-elements\/basic\/ignore-joiners.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/across-elements\/basic\/ignore-joiners.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/across-elements\/basic\/main.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/across-elements\/basic\/main.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/across-elements\/basic\/merge-blanks.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/across-elements\/basic\/merge-blanks.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/across-elements\/iframes\/across.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/across-elements\/iframes\/across.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/across-elements\/iframes\/inc.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/across-elements\/iframes\/inc.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/across-elements\/iframes\/main.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/across-elements\/iframes\/main.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/across-elements\/iframes\/nested-inc.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/across-elements\/iframes\/nested-inc.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/across-elements\/iframes\/nested.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/across-elements\/iframes\/nested.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/across-elements\/nested\/main.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/across-elements\/nested\/main.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/across-elements\/regexp\/filter.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/across-elements\/regexp\/filter.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/across-elements\/regexp\/ignore-groups.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/across-elements\/regexp\/ignore-groups.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/across-elements\/regexp\/infinite.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/across-elements\/regexp\/infinite.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/across-elements\/regexp\/main.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/across-elements\/regexp\/main.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/accuracy-complementary-limiters.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/accuracy-complementary-limiters.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/accuracy-complementary.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/accuracy-complementary.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/accuracy-exactly-limiters.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/accuracy-exactly-limiters.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/accuracy-exactly.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/accuracy-exactly.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/accuracy-partially.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/accuracy-partially.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/array-keyword.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/array-keyword.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/case-sensitive-diacritics.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/case-sensitive-diacritics.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/case-sensitive-synonyms-diacritics.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/case-sensitive-synonyms-diacritics.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/case-sensitive-synonyms.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/case-sensitive-synonyms.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/case-sensitive.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/case-sensitive.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/context-array.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/context-array.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/context-direct.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/context-direct.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/context-nodelist.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/context-nodelist.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/context-string.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/context-string.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/custom-element-class.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/custom-element-class.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/diacritics-vietnamese.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/diacritics-vietnamese.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/diacritics.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/diacritics.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/duplicate-context.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/duplicate-context.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/duplicate-keywords.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/duplicate-keywords.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/empty.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/empty.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/entities.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/entities.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/escape.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/escape.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/events.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/events.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/exclude.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/exclude.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/filter.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/filter.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/ignore-joiners-diacritics.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/ignore-joiners-diacritics.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/ignore-joiners-escape.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/ignore-joiners-escape.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/ignore-joiners-synonyms-diacritics.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/ignore-joiners-synonyms-diacritics.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/ignore-joiners-synonyms.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/ignore-joiners-synonyms.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/ignore-joiners.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/ignore-joiners.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/ignore-punctuation-accuracy.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/ignore-punctuation-accuracy.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/ignore-punctuation-ignore-joiners.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/ignore-punctuation-ignore-joiners.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/ignore-punctuation-separate-word-search.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/ignore-punctuation-separate-word-search.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/ignore-punctuation-synonyms-diacritics.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/ignore-punctuation-synonyms-diacritics.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/ignore-punctuation-synonyms.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/ignore-punctuation-synonyms.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/ignore-punctuation.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/ignore-punctuation.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/large-document.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/large-document.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/main.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/main.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/manipulated-mark.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/manipulated-mark.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/merge-blanks.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/merge-blanks.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/nested-mark.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/nested-mark.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/no-options.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/no-options.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/same-keywords.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/same-keywords.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/script-style.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/script-style.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/separate-word-search-blank.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/separate-word-search-blank.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/separate-word-search.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/separate-word-search.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/synonyms-diacritics.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/synonyms-diacritics.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/synonyms-merge-blanks.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/synonyms-merge-blanks.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/synonyms-no-match.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/synonyms-no-match.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/synonyms-not-empty.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/synonyms-not-empty.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/synonyms.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/synonyms.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/unmark-exclude.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/unmark-exclude.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/wildcards-between-words.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/wildcards-between-words.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/wildcards-diacritics.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/wildcards-diacritics.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/wildcards-escaped.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/wildcards-escaped.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/wildcards-ignore-joiners-synonyms.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/wildcards-ignore-joiners-synonyms.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/wildcards-synonyms.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/wildcards-synonyms.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/basic\/wildcards.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/basic\/wildcards.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/iframes\/disabled.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/iframes\/disabled.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/iframes\/exclude.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/iframes\/exclude.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/iframes\/inaccessible.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/iframes\/inaccessible.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/iframes\/inc.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/iframes\/inc.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/iframes\/main.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/iframes\/main.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/iframes\/nested-inc.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/iframes\/nested-inc.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/iframes\/nested.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/iframes\/nested.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/iframes\/onload-inc.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/iframes\/onload-inc.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/iframes\/onload.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/iframes\/onload.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/iframes\/order.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/iframes\/order.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/iframes\/readystate.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/iframes\/readystate.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/iframes\/unmark-same-instance.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/iframes\/unmark-same-instance.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/nested\/main.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/nested\/main.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/ranges\/across-elements.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/ranges\/across-elements.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/ranges\/each.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/ranges\/each.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/ranges\/filter.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/ranges\/filter.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/ranges\/iframes.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/ranges\/iframes.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/ranges\/inc.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/ranges\/inc.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/ranges\/main.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/ranges\/main.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/ranges\/no-match.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/ranges\/no-match.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/ranges\/overlap.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/ranges\/overlap.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/regexp\/filter.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/regexp\/filter.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/regexp\/ignore-groups.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/regexp\/ignore-groups.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/regexp\/infinite.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/regexp\/infinite.html",
-		"oF": 0
-		},
-	"\/mark.js\/test\/fixtures\/regexp\/main.html": {
+	"\/README.txt": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/mark.js\/test\/fixtures\/regexp\/main.html",
+		"oAP": "\/README.txt",
 		"oF": 0
 		},
-	"\/mark.js\/test\/manual.html": {
+	"\/uninstall.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/mark.js\/test\/manual.html",
+		"oAP": "\/uninstall.php",
 		"oF": 0
-		},
-	"\/mark.js\/test\/specs\/across-elements\/basic\/accuracy-exactly.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/across-elements\/basic\/min\/accuracy-exactly-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/across-elements\/basic\/done.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/across-elements\/basic\/min\/done-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/across-elements\/basic\/each.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/across-elements\/basic\/min\/each-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/across-elements\/basic\/empty.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/across-elements\/basic\/min\/empty-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/across-elements\/basic\/filter.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/across-elements\/basic\/min\/filter-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/across-elements\/basic\/ignore-joiners.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/across-elements\/basic\/min\/ignore-joiners-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/across-elements\/basic\/main.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/across-elements\/basic\/min\/main-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/across-elements\/basic\/merge-blanks.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/across-elements\/basic\/min\/merge-blanks-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/across-elements\/iframes\/across.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/across-elements\/iframes\/min\/across-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/across-elements\/iframes\/main.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/across-elements\/iframes\/min\/main-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/across-elements\/iframes\/nested.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/across-elements\/iframes\/min\/nested-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/across-elements\/nested\/main.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/across-elements\/nested\/min\/main-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/across-elements\/regexp\/filter.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/across-elements\/regexp\/min\/filter-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/across-elements\/regexp\/ignore-groups.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/across-elements\/regexp\/min\/ignore-groups-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/across-elements\/regexp\/infinite.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/across-elements\/regexp\/min\/infinite-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/across-elements\/regexp\/main.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/across-elements\/regexp\/min\/main-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/accuracy-complementary-limiters.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/accuracy-complementary-limiters-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/accuracy-complementary.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/accuracy-complementary-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/accuracy-exactly-limiters.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/accuracy-exactly-limiters-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/accuracy-exactly.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/accuracy-exactly-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/accuracy-partially.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/accuracy-partially-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/array-keyword.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/array-keyword-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/case-sensitive-diacritics.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/case-sensitive-diacritics-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/case-sensitive-synonyms-diacritics.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/case-sensitive-synonyms-diacritics-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/case-sensitive-synonyms.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/case-sensitive-synonyms-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/case-sensitive.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/case-sensitive-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/context-array.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/context-array-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/context-direct.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/context-direct-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/context-nodelist.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/context-nodelist-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/context-string.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/context-string-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/custom-element-class-unmark.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/custom-element-class-unmark-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/custom-element-class.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/custom-element-class-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/debug.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/debug-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/diacritics-vietnamese.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/diacritics-vietnamese-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/diacritics.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/diacritics-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/done.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/done-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/duplicate-context.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/duplicate-context-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/duplicate-keyword.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/duplicate-keyword-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/each.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/each-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/empty.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/empty-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/entities.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/entities-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/escape.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/escape-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/events.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/events-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/exclude.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/exclude-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/filter.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/filter-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/ignore-joiners-diacritics.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/ignore-joiners-diacritics-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/ignore-joiners-escape.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/ignore-joiners-escape-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/ignore-joiners-synonyms-diacritics.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/ignore-joiners-synonyms-diacritics-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/ignore-joiners-synonyms.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/ignore-joiners-synonyms-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/ignore-joiners.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/ignore-joiners-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/ignore-punctuation-accuracy.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/ignore-punctuation-accuracy-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/ignore-punctuation-ignore-joiners.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/ignore-punctuation-ignore-joiners-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/ignore-punctuation-separate-word-search.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/ignore-punctuation-separate-word-search-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/ignore-punctuation-synonyms-diacritics.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/ignore-punctuation-synonyms-diacritics-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/ignore-punctuation-synonyms.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/ignore-punctuation-synonyms-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/ignore-punctuation.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/ignore-punctuation-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/jquery.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/jquery-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/large-document.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/large-document-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/main.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/main-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/manipulated-mark.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/manipulated-mark-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/merge-blanks.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/merge-blanks-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/nested-mark.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/nested-mark-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/no-match.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/no-match-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/no-options.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/no-options-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/same-keywords.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/same-keywords-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/script-style.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/script-style-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/separate-word-search-blank.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/separate-word-search-blank-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/separate-word-search.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/separate-word-search-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/synonyms-diacritics.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/synonyms-diacritics-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/synonyms-merge-blanks.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/synonyms-merge-blanks-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/synonyms-no-match.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/synonyms-no-match-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/synonyms-not-empty.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/synonyms-not-empty-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/synonyms.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/synonyms-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/unmark-exclude.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/unmark-exclude-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/unmark-jquery.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/unmark-jquery-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/unmark.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/unmark-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/wildcards-between-words.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/wildcards-between-words-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/wildcards-diacritics.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/wildcards-diacritics-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/wildcards-escaped.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/wildcards-escaped-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/wildcards-ignore-joiners-synonyms.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/wildcards-ignore-joiners-synonyms-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/wildcards-synonyms.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/wildcards-synonyms-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/basic\/wildcards.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/basic\/min\/wildcards-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/configuration.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/min\/configuration-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/iframes\/disabled.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/iframes\/min\/disabled-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/iframes\/exclude.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/iframes\/min\/exclude-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/iframes\/inaccessible.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/iframes\/min\/inaccessible-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/iframes\/main.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/iframes\/min\/main-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/iframes\/nested-unmark.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/iframes\/min\/nested-unmark-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/iframes\/nested.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/iframes\/min\/nested-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/iframes\/onload.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/iframes\/min\/onload-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/iframes\/order.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/iframes\/min\/order-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/iframes\/readystate.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/iframes\/min\/readystate-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/iframes\/unmark-same-instance.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/iframes\/min\/unmark-same-instance-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/iframes\/unmark.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/iframes\/min\/unmark-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/nested\/main.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/nested\/min\/main-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/nested\/unmark.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/nested\/min\/unmark-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/ranges\/across-elements.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/ranges\/min\/across-elements-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/ranges\/each.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/ranges\/min\/each-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/ranges\/filter.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/ranges\/min\/filter-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/ranges\/iframes.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/ranges\/min\/iframes-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/ranges\/main.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/ranges\/min\/main-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/ranges\/no-match.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/ranges\/min\/no-match-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/ranges\/overlap.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/ranges\/min\/overlap-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/regexp\/done.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/regexp\/min\/done-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/regexp\/filter.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/regexp\/min\/filter-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/regexp\/ignore-groups.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/regexp\/min\/ignore-groups-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/regexp\/infinite.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/regexp\/min\/infinite-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/regexp\/jquery.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/regexp\/min\/jquery-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/regexp\/main.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/regexp\/min\/main-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/mark.js\/test\/specs\/regexp\/no-match.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/mark.js\/test\/specs\/regexp\/min\/no-match-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
 		}
 	},
 "hooks": [
@@ -1988,13 +336,13 @@
 	},
 "projectAttributes": {
 	"creationDate": 527443813,
-	"displayValue": "markjs.io",
+	"displayValue": "highlightcontent",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-drunkArcher"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
-	"alwaysUseExternalServer": 0,
+	"alwaysUseExternalServer": 1,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
@@ -3380,7 +1728,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerAddress": "http:\/\/mark.test",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",

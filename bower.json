@@ -1,0 +1,38 @@
+{
+  "name": "Highlight Content",
+  "authors": [
+    "Bego Mario Garde <pixolin@pixolin.de> (https://pixolin.de)"
+  ],
+  "description": "Load Mark.JS as Bower Component.",
+  "main": [
+    "index.html",
+    "main.js"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "none"
+  ],
+  "license": "MIT",
+  "homepage": "https://google.com",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/foo/bar.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "mark.js": "^8.11.0"
+  }
+}
